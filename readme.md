@@ -4,7 +4,7 @@ This is a simple plugin that allows you to parse PyroCMS tags in a variable or b
 
 ## Installation
 
-Copy the parse.php file to your addons/shared\_addons/plugins or addons/site\_ref/plugins folder. It is not ready to use!
+Copy the parse.php file to your addons/shared\_addons/plugins or addons/site\_ref/plugins folder. It is now ready to use!
 
 ## Usage
 
